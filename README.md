@@ -8,7 +8,7 @@ This project presents an **interactive Power BI dashboard** analyzing DHL Expres
 It enables business leaders to monitor key metrics such as **sales**, **orders**, **delivery performance**, and **customer behavior**, and make informed, data-driven decisions to improve efficiency, customer satisfaction, and profitability.
 
 ---
-## 📊 Dashboard Visuals
+## Dashboard Visuals
 
 ### 🖥️ Main Dashboard
 ![Main Dashboard](https://github.com/arekatikaakhil/DHL-Express-Business-Operations-Analytics-Dashboard/blob/main/visuals/Main%20Dashboard.png?raw=true)
