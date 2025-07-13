@@ -14,10 +14,10 @@ It enables business leaders to monitor key metrics such as **sales**, **orders**
 ![Main Dashboard](https://github.com/arekatikaakhil/DHL-Express-Business-Operations-Analytics-Dashboard/blob/main/visuals/Main%20Dashboard.png?raw=true)
 
 ### 🗂️ Orders Overview
-![Orders](https://github.com/arekatikaakhil/DHL-Express-Business-Operations-Analytics-Dashboard/blob/main/visuals/Orders.png?raw=true)
+![Orders](https://github.com/arekatikaakhil/DHL-Express-Business-Operations-Analytics-Dashboard/blob/main/visuals/orders.jpeg)
 
 ### 🚚 Shipping Performance
-![Shipping](https://github.com/arekatikaakhil/DHL-Express-Business-Operations-Analytics-Dashboard/blob/main/visuals/Shipping.png?raw=true)
+![Shipping](https://github.com/arekatikaakhil/DHL-Express-Business-Operations-Analytics-Dashboard/blob/main/visuals/Shipping.jpeg)
 
 ### 👥 Customer Insights
 ![Customers](https://github.com/arekatikaakhil/DHL-Express-Business-Operations-Analytics-Dashboard/blob/main/visuals/customers.png?raw=true)
